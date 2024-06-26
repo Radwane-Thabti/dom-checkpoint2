@@ -1,0 +1,52 @@
+.container {
+   display: flex;
+   flex-direction: column;
+   align-items: center;
+   margin-top: 50px;
+}
+
+#color-box {
+   width: 300px;
+   height: 300px;
+   background-color: #ccc;
+   margin-bottom: 20px;
+}
+
+#change-color-btn {
+   background-color: blue;
+   color: white;
+   padding: 15px 32px;
+   text-align: center;
+   text-decoration: none;
+   display: inline-block;
+   font-size: 20px;
+   border: none;
+   border-radius: 5px;
+   cursor: pointer;
+}
+
+
+
+
+
+
+
+
+
+
+/*.container {
+   text-align: center;
+   align-items: center;
+}
+#change-color-btn {
+   background-color: blue;
+   border: none;
+   color: blanc;
+   padding: 15px 30px;
+   text-align: center;
+   text-decoration: none;
+   display:flex;
+   font-size: 16px;
+   margin: 4px 2px;
+   border-radius: 12px;
+} */
